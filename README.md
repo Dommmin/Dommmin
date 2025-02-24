@@ -12,19 +12,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,vue,tailwind,docker,linux,git,vscode" />
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominikjasinski&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominikjasinski&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dominikjasinski&theme=onedark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,vue,tailwind,docker,linux,git,phpstorm" />
 </p>
 
 ### 💬 Let's connect
