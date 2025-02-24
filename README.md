@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,vue,tailwind,docker,linux,git,phpstorm" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,mysql,vue,react,tailwind,docker,linux,git,phpstorm" />
 </p>
 
 ### 💬 Let's connect
