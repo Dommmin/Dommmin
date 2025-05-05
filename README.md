@@ -15,7 +15,7 @@
 </p>
 
 ### 💬 Let's connect
-- LinkedIn: [Dominik Jasiński](https://www.linkedin.com/in/dominik-jasi%C5%84ski/)
+- LinkedIn: [Profile](https://www.linkedin.com/in/dominik-jasi%C5%84ski/)
 - Medium: [Dominik](https://medium.com/@domijas96)
 - Blog: ** Soon **
 
