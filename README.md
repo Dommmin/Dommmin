@@ -8,7 +8,6 @@
 - 🚀 I’m currently working on **Laravel projects**
 - 🌱 I’m learning **system design and architecture**
 - 🎯 My goal is to **become a software architect**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/dominik-jasi%C5%84ski/)**
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -17,5 +16,6 @@
 
 ### 💬 Let's connect
 - LinkedIn: [Dominik Jasiński](https://www.linkedin.com/in/dominik-jasi%C5%84ski/)
+- Medium: https://medium.com/@domijas96
 - Blog: ** Soon **
 
