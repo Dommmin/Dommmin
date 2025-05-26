@@ -17,5 +17,5 @@
 ### 💬 Let's connect
 - LinkedIn: [Profile](https://www.linkedin.com/in/dominik-jasi%C5%84ski/)
 - Medium: [Dominik](https://medium.com/@Dommin)
-- Blog: ** Soon **
+- Blog: [Blog](https://dominik-dev.pl)
 
